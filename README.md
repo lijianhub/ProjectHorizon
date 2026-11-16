@@ -42,49 +42,33 @@ These eight conjectures represent the questions that guide Project Horizon. They
 
 **Can we develop propulsion systems that are far more efficient and powerful than today's technologies?**
 
-Explore advanced electric propulsion, plasma propulsion, nuclear propulsion, and other future possibilities.
-
 ### HZ-02 — Future Space Energy
 
 **Can we build lighter energy systems that deliver much more power?**
-
-Explore high-specific-power energy systems, advanced power conversion, and energy storage for spacecraft.
 
 ### HZ-03 — Intelligent Aerospace Materials
 
 **Can materials become stronger, lighter, smarter, and capable of repairing themselves?**
 
-Explore advanced materials that can withstand extreme temperatures, radiation, and harsh space environments.
-
 ### HZ-04 — Breakthrough Thermal Management
 
 **Can we manage extreme heat more effectively in space?**
-
-Explore advanced thermal protection, heat transfer, energy recovery, and lightweight heat rejection systems.
 
 ### HZ-05 — External Energy for Space Travel
 
 **Can spacecraft receive energy from outside rather than carrying all their energy onboard?**
 
-Explore laser propulsion, light sails, microwave power transmission, and space-based energy systems.
-
 ### HZ-06 — Autonomous Spacecraft
 
 **Can spacecraft think, adapt, and make decisions independently?**
-
-Explore AI-powered navigation, autonomous operations, fault diagnosis, and intelligent mission planning.
 
 ### HZ-07 — AI-Accelerated Scientific Discovery
 
 **Can AI help humanity discover scientific principles and technologies that we have not yet imagined?**
 
-Use AI to generate hypotheses, explore scientific models, design experiments, and challenge existing assumptions.
-
 ### HZ-08 — The Limits of Space Transportation
 
 **What are the true physical limits of space travel, and which limits can future technology overcome?**
-
-Investigate the boundaries imposed by physics while exploring new scientific and engineering possibilities.
 
 ---
 
