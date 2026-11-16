@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Project Horizon — Exploring the Future of Space Transportation" width="100%">
+</p>
+
 # Project Horizon
 ### Exploring the Future of Space Transportation
 
